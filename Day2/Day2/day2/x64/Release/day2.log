@@ -1,0 +1,7 @@
+﻿  day2.cpp
+C:\CG\day2\day2.cpp(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  正在生成代码
+  Previous IPDB not found, fall back to full compilation.
+  All 36 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  day2.vcxproj -> C:\CG\day2\x64\Release\day2.exe
